@@ -1,0 +1,11 @@
+C:\Users\Eduarda\projects\backend\streams\bin\Debug\netcoreapp3.1\streams.exe
+C:\Users\Eduarda\projects\backend\streams\bin\Debug\netcoreapp3.1\streams.deps.json
+C:\Users\Eduarda\projects\backend\streams\bin\Debug\netcoreapp3.1\streams.runtimeconfig.json
+C:\Users\Eduarda\projects\backend\streams\bin\Debug\netcoreapp3.1\streams.runtimeconfig.dev.json
+C:\Users\Eduarda\projects\backend\streams\bin\Debug\netcoreapp3.1\streams.dll
+C:\Users\Eduarda\projects\backend\streams\bin\Debug\netcoreapp3.1\streams.pdb
+C:\Users\Eduarda\projects\backend\streams\obj\Debug\netcoreapp3.1\streams.csprojAssemblyReference.cache
+C:\Users\Eduarda\projects\backend\streams\obj\Debug\netcoreapp3.1\streams.AssemblyInfoInputs.cache
+C:\Users\Eduarda\projects\backend\streams\obj\Debug\netcoreapp3.1\streams.AssemblyInfo.cs
+C:\Users\Eduarda\projects\backend\streams\obj\Debug\netcoreapp3.1\streams.dll
+C:\Users\Eduarda\projects\backend\streams\obj\Debug\netcoreapp3.1\streams.pdb
