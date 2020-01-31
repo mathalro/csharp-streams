@@ -14,6 +14,8 @@ namespace streams
 
             using var file = new FileStream(path, FileMode.Open);
             var reader = new StreamReader(file);
+
+            Console.WriteLine(reader.ReadToEnd());
         }
     }
 }
